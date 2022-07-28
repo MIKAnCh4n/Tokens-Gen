@@ -8,3 +8,7 @@ It's for education, I won't be responsible for any action you take with this scr
 #70
 
 var i = await page.$('[aria-label="'+name+'"]');
+
+#71
+
+await i.click();
